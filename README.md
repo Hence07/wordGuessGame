@@ -1,5 +1,5 @@
 Word-Guess-Game
 
-*Hangman 90s Style
+80s Style
 
-*Let's have some fun here!
+Let's have some fun here!
